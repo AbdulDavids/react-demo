@@ -1,0 +1,8 @@
+services:
+  reactaws:
+    x-cnc:
+      type: frontend
+      assets_path: dist
+      build: ["yarn", "build"]
+    build:
+      context: .
