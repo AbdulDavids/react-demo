@@ -22,9 +22,14 @@
 
 <br/>
 
-<p align="center">
+## Demo React Application
+
 This is the code to accompany the tutorial available at <a href="https://docs.withcoherence.com/getting-started/quickstart-react-app">https://docs.withcoherence.com/getting-started/quickstart-react-app</a>
-</p>
+
+You can deploy a basic React application built with Vite and Tailwind. It looks like this.
+
+![Issue tracking demo react application screenshot](app-demo.png)
+
 
 Deploy and scale applications on your own cloud infrastructure at **[Coherence](https://withcoherence.com)**.
 
