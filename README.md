@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://withcoherence.com">
-    <img alt="With Coherence" title="With Coherence" src="./logo.svg" width="400" style="color: black">
+    <img alt="With Coherence" title="With Coherence" src="./logo.png" width="400" style="color: black">
   </a>
 </p>
 
