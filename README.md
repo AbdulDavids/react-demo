@@ -25,3 +25,7 @@
 <p align="center">
 This is the code to accompany the tutorial available at <a href="https://docs.withcoherence.com/getting-started/quickstart-react-app">https://docs.withcoherence.com/getting-started/quickstart-react-app</a>
 </p>
+
+Deploy and scale applications on your own cloud infrastructure at **[Coherence](https://withcoherence.com)**.
+
+Read our documentation at [docs.withcoherence.com](https://docs.withcoherence.com/).
