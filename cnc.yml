@@ -5,8 +5,8 @@ services:
       dockerfile: ''
     x-cnc:
       type: frontend
-      build: yarn dev
+      build: yarn build
       url_path: ''
-      assets_path: dis
+      assets_path: dist
     x-coherence:
       track_branch_name: main
