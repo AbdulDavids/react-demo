@@ -1,15 +1,27 @@
-# React, Vite & Tailwind CSS Template
+<p align="center">
+  <a href="https://withcoherence.com">
+    <img alt="With Coherence" title="With Coherence" src="./logo.svg" width="400" style="color: black">
+  </a>
+</p>
 
-This is a starter template for building a React app with Vite and Tailwind CSS on [Coherence](withcoherence.com).
 
-## How to use
+<p align="center">
+  <i>The Next Generation Developer Platform</i><br/> 
+  <a href="https://withcoherence.com">withcoherence.com</a>
+</p>
 
-1. Sign up for an account at [app.withcoherence.com](https://app.withcoherence.com/)
-2. Once you have created an account, create a new application.
-3. On the "App details" page, inside step #2 "Import a repo," click on the "Import feature" link to import a repo into your GitHub account.
-4. Copy and paste this repo's URL `https://github.com/coherenceplatform/react-template` into the "Your old repository’s clone URL" field.
-5. Give your new repo a name and then click the "Begin import" button.
-6. After the repo has imported, copy and paste the new repo's URL into the "Repo URL" field in Coherence.
-7. Follow the remaining onboarding instructions.
+<h1 align="center">
+  React example
+</h1>
 
-Coherence will set up your Cloud IDE, automatic preview environments, CI/CD pipelines, and managed cloud infrastructure.
+<p align="center">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
+
+<br/>
+
+<p align="center">
+This is the code to accompany the tutorial available at <a href="https://docs.withcoherence.com/getting-started/quickstart-react-app">https://docs.withcoherence.com/getting-started/quickstart-react-app</a>
+</p>
