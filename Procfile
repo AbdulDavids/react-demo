@@ -1,1 +1,1 @@
-web: yarn install && yarn build && yarn dev --port $PORT
+web: npm install && npm build && npm start
